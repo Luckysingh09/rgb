@@ -1,7 +1,8 @@
 import streamlit as st
-import folium
+
 import requests
 from streamlit_folium import st_folium
+import folium
 import pandas as pd
 from shapely.geometry import shape
 
